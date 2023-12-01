@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "tinygrad"
-version = "0.1.0"
+version = "0.8.0"
 description = ""
 authors = ["George Hotz <geohot@tinygrad.org>"]
 readme = "README.md"
